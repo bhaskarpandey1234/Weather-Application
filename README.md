@@ -1,12 +1,14 @@
 # Weather Web Application
 API based weather web application
-Welcome to my Weather Application! This application provides accurate and up-to-date weather information for various locations.
+
+Welcome to our Weather Web Application! Our mission is to provide accurate and up-to-date weather information to help you plan your day, stay safe, and be prepared for any weather condition.
+
 
 ## Features
 
 - Check current weather conditions
 - Intuitive and visually appealing interface
-- contact us/ direct email to us via contact form
+- Contact us/ direct email to us via contact form
 
 ## Screenshots
 
